@@ -1,0 +1,1 @@
+This snippet fixes the Chrome Print Preview Window from closing automatically when the Debounced and Throttled Resize Events for jQuery Script is active -- https://github.com/louisremi/jquery-smartresize
